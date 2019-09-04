@@ -1,0 +1,4 @@
+azure-functions
+tensorflow
+Pillow
+requests
